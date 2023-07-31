@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:identex1:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/identex1/build/.transforms/4f5259f75972a6632da27c2d8246590b/jetified-identex-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/identex1/build/.transforms/4f5259f75972a6632da27c2d8246590b/jetified-identex-release/res" />
+      <root url="file://$PROJECT_DIR$/identex1/build/.transforms/4f5259f75972a6632da27c2d8246590b/jetified-identex-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

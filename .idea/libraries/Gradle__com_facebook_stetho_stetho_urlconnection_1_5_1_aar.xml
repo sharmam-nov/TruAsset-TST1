@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.stetho:stetho-urlconnection:1.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0218d7d7bf7487161a56956d2a4d9e55/jetified-stetho-urlconnection-1.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0218d7d7bf7487161a56956d2a4d9e55/jetified-stetho-urlconnection-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0218d7d7bf7487161a56956d2a4d9e55/jetified-stetho-urlconnection-1.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/515c69fc47050ddd4d42772b267c97811d4dd5ef/stetho-urlconnection-1.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-urlconnection/1.5.1/a8c01af291aa21c8d7423152c9c2bc2691ed17d6/stetho-urlconnection-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

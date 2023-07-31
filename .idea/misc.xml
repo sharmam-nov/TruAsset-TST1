@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/activity_name_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/add_assets_manually_footer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_info_footer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_information_activity.xml" value="0.1462673611111111" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_information_fragment.xml" value="0.25" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_information_row_header_holder.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_information_row_holder.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_inspection_data_fragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_inspection_data_list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/asset_list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/pair_rfid_activity.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/pair_rfid_activity_asset_type_equipment_lay.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/spinner_item_activities.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout/unbundle_asset_list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout_first_time_setup/layout/adfs_webview_activity.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android apps/TruAsset-TST/app/src/main/res/layouts/layout_first_time_setup/layout/first_time_setup_3.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/mayanks3/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.17552083333333332" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

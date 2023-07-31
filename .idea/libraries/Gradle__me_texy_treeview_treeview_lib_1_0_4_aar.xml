@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.texy.treeview:treeview_lib:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9fdc3e2204e8e682133d5cd605cc7b4/jetified-treeview_lib-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9fdc3e2204e8e682133d5cd605cc7b4/jetified-treeview_lib-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9fdc3e2204e8e682133d5cd605cc7b4/jetified-treeview_lib-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.texy.treeview/treeview_lib/1.0.4/b085de7567fcaed6bce2baf829941a9dc9dfb18a/treeview_lib-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.texy.treeview/treeview_lib/1.0.4/c9547ce757c3cfe11f8f3f9effc457be88a401ed/treeview_lib-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
